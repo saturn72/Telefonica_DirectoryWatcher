@@ -1,0 +1,13 @@
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\UI.exe.config
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\UI.exe
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\UI.pdb
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\obj\Debug\UI.Form1.resources
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\obj\Debug\UI.Properties.Resources.resources
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\obj\Debug\UI.exe
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\obj\Debug\UI.pdb
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\Common.dll
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\Core.dll
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\Common.pdb
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\Core.pdb

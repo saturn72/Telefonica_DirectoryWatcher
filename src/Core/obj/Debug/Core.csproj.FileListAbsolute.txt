@@ -1,0 +1,5 @@
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Core\bin\Debug\Core.dll
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Core\bin\Debug\Core.pdb
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Core\obj\Debug\Core.dll
+C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Core\obj\Debug\Core.pdb
