@@ -32,17 +32,18 @@ Solution layers:
 - Tests
 	- Some unit tests I used during programming
 
-Application Flow:
+###Application Flow:
 1. UI starts and triggers Bootstrapper's type Load Method, which init the application
 2. After selecting the watched and destination directories, the watched folder is watched. 
 3. Whenever NEW file is found in the watched folder, system's event publisher (pub-sub) triggers all handling method in consumers
 	3.1. Dedicated consumer for copying the file is triggered and copy the file to destination
 
-Before Execution
+###Before Execution
+####To run the unit tests I used xunit. to download xunit package, please follow the next steps:
 - Open the solution in visual studio (the solution was created using wrote in VS2015)
 - Open 'Package Manager Console' (Tools --> Nuget Package Manager --> Package Manager Console)
 - Launch 'Update-Package' command in Package Manager Console
 
-Please note: 
+###Please note: 
 1. This is basically a draft which ignores many issues such what if selected destination folder is same as selected watch folder, who responsible to set file destination path, logging etc.
 
