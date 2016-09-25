@@ -1,9 +1,21 @@
 # Telefonica_DirectoryWatcher
 This dir watcher was developed for Telefonica Israel development department.
-The request was to create simple yet stong, robust and well archtectured component to listen to file system modifications.
+The request was to create simple yet strong, robust and well architectured component to listen to directory changes. 
+The component must be stand alone and not to rely on any external services and/or third-party libraries.
+The suggestted solution copies every new file in source directory to destination directory.
+
+The implementation includes:
+* IoC resolver (dependency injectopn)
+* pub-sub pattern implementation
+* basic unit testing (to the core components only)
+* relatively flat architecture
+* simple UI
 
 
-This solution contains software as described in the doc sent to me last week.
+
+During implementation I created simple dependency injection container which manages all applicaiton dependencies.
+
+~~This solution contains software as described in the doc sent to last week.~~
 
 Solution layers:
 -UI
