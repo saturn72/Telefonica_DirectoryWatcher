@@ -5,3 +5,10 @@ C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Common\obj\Debug\Co
 C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Common\obj\Debug\Common.pdb
 C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Common\bin\Debug\Core.dll
 C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\Common\bin\Debug\Core.pdb
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\Common\bin\Debug\Common.dll
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\Common\bin\Debug\Common.pdb
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\Common\bin\Debug\Core.dll
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\Common\bin\Debug\Core.pdb
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\Common\obj\Debug\Common.dll
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\Common\obj\Debug\Common.pdb

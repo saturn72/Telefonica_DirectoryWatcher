@@ -11,3 +11,16 @@ C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\Common
 C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\Core.dll
 C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\Common.pdb
 C:\private\Saturn72\code\github_repos\POC's\DirectoryWatcher\UI\bin\Debug\Core.pdb
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\bin\Debug\UI.exe.config
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\obj\Debug\UI.exe
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\obj\Debug\UI.pdb
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\bin\Debug\UI.exe
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\bin\Debug\UI.pdb
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\bin\Debug\Common.dll
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\bin\Debug\Core.dll
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\bin\Debug\Common.pdb
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\bin\Debug\Core.pdb
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\obj\Debug\UI.Form1.resources
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\obj\Debug\UI.Properties.Resources.resources
+C:\dev\git\github_repos\Telefonica_DirectoryWatcher\src\UI\obj\Debug\UI.csproj.GenerateResource.Cache
